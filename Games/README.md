@@ -1,3 +1,1 @@
-## Hosted on GitHub here:
-
-http://marler8997.github.io/SlimeJavascript/SlimeVolleyballLegacy.html
+Play Some games here! (Modified Slime Volleyball)
